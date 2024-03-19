@@ -1,0 +1,41 @@
+body{
+    background: pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title{
+    width: 400px;
+    background: maroon;
+    text-align: center;
+    color: beige;
+    margin: 16px auto;
+    border: 2px beige solid;
+    padding: 8px;
+}
+
+.macncheese{
+    width: fit-content;
+    background: lightgoldenrodyellow;
+    text-align: left;
+    margin: 8px auto;
+    padding: 15px;
+    border: 2px darkgoldenrod solid;
+}
+
+.roastbrocc{
+    width: fit-content;
+    background: lightgreen;
+    text-align: left;
+    margin: 8px auto;
+    padding: 15px;
+    border: 2px darkgreen solid;
+}
+
+.glazedcarr{
+    width: fit-content;
+    background: orange;
+    text-align: left;
+    margin: 8px auto;
+    padding: 15px;
+    border: 2px darkorange solid;
+}
